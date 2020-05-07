@@ -1,26 +1,26 @@
 {
   "backgroundType": "plain",
   "plainBackgroundMode": "daylight",
-  "devIntro": "Hi, I m Kshitij Singh",
-  "devDesc": "All - Star Dev | Code Fanatic | Linux Hacker | Bleh",
+  "devIntro": "Hi, I'm Ahmed Moustafa",
+  "devDesc": "Geek Ahmed | Code Fanatic | IEEE CS",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
   "icons": [
     {
       "image": "fa-github",
-      "url": "https://github.com/singhkshitij"
+      "url": "https://github.com/geekahmed"
     },
     {
       "image": "fa-twitter",
-      "url": "https://twitter.com/ikshitijsingh"
+      "url": "https://twitter.com/"
     },
     {
       "image": "fa-stack-overflow",
-      "url": "https://stackoverflow.com/users/7088832/kshitij-singh"
+      "url": "https://stackoverflow.com/users/10039391/ahmed-moustafa"
     },
     {
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/ikshitijsingh/"
+      "url": "https://www.linkedin.com/in/geekahmed/"
     }
   ]
 }

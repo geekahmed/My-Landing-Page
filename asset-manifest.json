@@ -1,13 +1,13 @@
 {
-  "main.css": "/My-Landing-Page/static/css/main.20818a23.chunk.css",
-  "main.js": "/My-Landing-Page/static/js/main.210a696e.chunk.js",
-  "main.js.map": "/My-Landing-Page/static/js/main.210a696e.chunk.js.map",
-  "runtime~main.js": "/My-Landing-Page/static/js/runtime~main.4f5ad23c.js",
-  "runtime~main.js.map": "/My-Landing-Page/static/js/runtime~main.4f5ad23c.js.map",
-  "static/js/2.6cb2980a.chunk.js": "/My-Landing-Page/static/js/2.6cb2980a.chunk.js",
-  "static/js/2.6cb2980a.chunk.js.map": "/My-Landing-Page/static/js/2.6cb2980a.chunk.js.map",
-  "index.html": "/My-Landing-Page/index.html",
-  "precache-manifest.d30aa1e50d41c7f2afee757217789384.js": "/My-Landing-Page/precache-manifest.d30aa1e50d41c7f2afee757217789384.js",
-  "service-worker.js": "/My-Landing-Page/service-worker.js",
-  "static/css/main.20818a23.chunk.css.map": "/My-Landing-Page/static/css/main.20818a23.chunk.css.map"
+  "main.css": "/static/css/main.20818a23.chunk.css",
+  "main.js": "/static/js/main.84d0ee85.chunk.js",
+  "main.js.map": "/static/js/main.84d0ee85.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.6cb2980a.chunk.js": "/static/js/2.6cb2980a.chunk.js",
+  "static/js/2.6cb2980a.chunk.js.map": "/static/js/2.6cb2980a.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.33ab4782a1dd0a9aae65ae0fea0dc087.js": "/precache-manifest.33ab4782a1dd0a9aae65ae0fea0dc087.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.20818a23.chunk.css.map": "/static/css/main.20818a23.chunk.css.map"
 }
